@@ -15,7 +15,7 @@ export default function App() {
       <input
         ref={inputRef}
         type="text"
-        value="ram"
+        value="ramuuu"
         onChange={() => setData(inputRef.current.value)}
       />
       <h3>{data}</h3>
